@@ -5,7 +5,7 @@
 <!-- 个人资料徽标 -->
 
 [![我是喵鱼a](https://img.shields.io/badge/我是喵鱼a-66ccff)](https://github.com/aurzex/)
-[![Blog](https://img.shields.io/badge/Website-white?&logo=Hexo)]("aurzex.top")
+[![Blog](https://img.shields.io/badge/Website-white?&logo=Hexo)](https://aurzex.top)
 [![Github Badge](https://img.shields.io/badge/-Github%20-black?style=flat&logo=Github&logoColor=white)](https://github.com/aurzex/)
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-pink?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
 
