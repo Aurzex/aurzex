@@ -10,9 +10,7 @@
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-pink?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
 
 # 🚀 About Me
-
-🎓 北师大庆阳实验学校高一 | 💻 全栈开发者  
-🏆 2023 ChatMindAI 冠军 | 🛠️ Aumiao 核心开发者  
+ 
 🌄 户外爱好者 | 🎵 洛天依单推人
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=600&lines=console.log(%22Hello+Digital+World%22);while(true){keepCoding()}>)](https://git.io/typing-svg)
@@ -47,7 +45,6 @@
 ## 🏅 Achievements
 
 ```diff
-+ 编程猫社区 202501 届风纪委员 👮♂️
 ! Aumiao 开源项目核心开发者 💻
 ```
 
@@ -55,7 +52,7 @@
 
 ## 🎮 Like
 
-Rizline | Minecraft | COD
+Rizline | Minecraft
 
 <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F_%E6%B4%9B%E5%A4%A9%E4%BE%9D_%E2%9D%A4%EF%B8%8F-ff66c4?style=for-the-badge" alt="洛天依">
 
