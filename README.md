@@ -23,10 +23,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=yellow)
 
 🧠 计划学习:
 
-![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
@@ -61,6 +61,8 @@ Rizline | Minecraft
 ### 🚀 Popular project repositories:
 
 [![Aumiao](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=Aumiao&theme=shadow_blue)](https://github.com/aurzex/Aumiao)
+[![NyanTheme](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=NyanTheme&theme=shadow_blue)](https://github.com/aurzex/NyanTheme)
+[![Bili-miao](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=Bili-miao&theme=shadow_blue)](https://github.com/aurzex/Bili-miao)
 
 ### 🏆My GitHub stats:
 
