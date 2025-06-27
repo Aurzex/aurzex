@@ -61,6 +61,7 @@ Rizline | Minecraft
 ### 🚀 Popular project repositories:
 
 [![Aumiao](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=Aumiao&theme=shadow_blue)](https://github.com/aurzex/Aumiao)
+[![MiaoSend](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=MiaoSend&theme=shadow_blue)](https://github.com/aurzex/MiaoSend)
 [![NyanTheme](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=NyanTheme&theme=shadow_blue)](https://github.com/aurzex/NyanTheme)
 [![Bili-miao](https://github-readme-stats.vercel.app/api/pin/?username=aurzex&repo=Bili-miao&theme=shadow_blue)](https://github.com/aurzex/Bili-miao)
 
