@@ -9,8 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-aurzex-181717?style=flat-square&logo=github)](https://github.com/aurzex)
 [![Bilibili](https://img.shields.io/badge/Bilibili-喵鱼a-pink?style=flat-square&logo=bilibili)](https://space.bilibili.com/1940383037)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-b2846a?style=flat-square&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
