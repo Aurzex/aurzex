@@ -3,7 +3,7 @@
 
 ![](http://q1.qlogo.cn/g?b=qq&nk=3611198191&s=100)
 
-## 洛天依厨，渴望变成香香软软的女生
+## 当大雾散尽，你会发现春野漫地
 
 [![Website](https://img.shields.io/badge/Website-aurzex.top-66ccff?style=flat-square)](https://aurzex.top)
 [![GitHub](https://img.shields.io/badge/GitHub-aurzex-181717?style=flat-square&logo=github)](https://github.com/aurzex)
