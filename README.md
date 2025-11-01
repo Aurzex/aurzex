@@ -3,7 +3,8 @@
 
 ![](http://q1.qlogo.cn/g?b=qq&nk=3611198191&s=100)
 
-## 重雾涤尽，方览芳原无际；风雨止歇，始见星河垂天
+## 重雾涤尽，方览芳原无际
+## 风雨止歇，始见星河垂天
 
 [![Website](https://img.shields.io/badge/Website-aurzex.top-66ccff?style=flat-square)](https://aurzex.top)
 [![GitHub](https://img.shields.io/badge/GitHub-aurzex-181717?style=flat-square&logo=github)](https://github.com/aurzex)
