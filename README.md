@@ -30,21 +30,4 @@
 
 <br><br>
 
-<!-- 仓库卡片网格 -->
-<a href="https://github.com/aurzex/Aumiao">
-  <img align="center" src="https://stats.aurzex.top/api/pin/?username=aurzex&repo=Aumiao&theme=transparent&show_owner=true" />
-</a>
-<a href="https://github.com/aurzex/MiaoSend">
-  <img align="center" src="https://stats.aurzex.top/api/pin/?username=aurzex&repo=MiaoSend&theme=transparent&show_owner=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/aurzex/NyanTheme">
-  <img align="center" src="https://stats.aurzex.top/api/pin/?username=aurzex&repo=NyanTheme&theme=transparent&show_owner=true" />
-</a>
-<a href="https://github.com/aurzex/Bili-miao">
-  <img align="center" src="https://stats.aurzex.top/api/pin/?username=aurzex&repo=Bili-miao&theme=transparent&show_owner=true" />
-</a>
-
 </div>
