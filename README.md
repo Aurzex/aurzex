@@ -3,9 +3,7 @@
 
 ![](http://q1.qlogo.cn/g?b=qq&nk=3611198191&s=100)
 
-**重雾涤尽，方览芳原无际**
-
-**风雨止歇，始见星河垂天**
+**「云销雨霁山如洗，风定波平星欲流」**
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
